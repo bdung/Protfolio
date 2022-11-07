@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbff68bc.css",
-    "main.js": "/static/js/main.58a39e74.js",
-    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
-    "static/media/about.jpg": "/static/media/about.4f42e9f46e8d13a7254d.jpg",
-    "static/media/profile.jpg": "/static/media/profile.4f42e9f46e8d13a7254d.jpg",
-    "static/media/DungBuiCV.pdf": "/static/media/DungBuiCV.f649806e7cbc57860831.pdf",
-    "index.html": "/index.html",
-    "main.bbff68bc.css.map": "/static/css/main.bbff68bc.css.map",
-    "main.58a39e74.js.map": "/static/js/main.58a39e74.js.map",
-    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/Protfolio/static/css/main.a13b53e8.css",
+    "main.js": "/Protfolio/static/js/main.22a4552b.js",
+    "static/js/787.b701888c.chunk.js": "/Protfolio/static/js/787.b701888c.chunk.js",
+    "static/media/about.jpg": "/Protfolio/static/media/about.4f42e9f46e8d13a7254d.jpg",
+    "static/media/profile.jpg": "/Protfolio/static/media/profile.4f42e9f46e8d13a7254d.jpg",
+    "static/media/work2.jpg": "/Protfolio/static/media/work2.992cb2a6d69dd80aca08.jpg",
+    "static/media/DungBuiCV.pdf": "/Protfolio/static/media/DungBuiCV.f649806e7cbc57860831.pdf",
+    "static/media/work1.jpg": "/Protfolio/static/media/work1.1daf649fa3ca34cc4aaf.jpg",
+    "static/media/work4.jpg": "/Protfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/Protfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work3.jpg": "/Protfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/Protfolio/index.html",
+    "main.a13b53e8.css.map": "/Protfolio/static/css/main.a13b53e8.css.map",
+    "main.22a4552b.js.map": "/Protfolio/static/js/main.22a4552b.js.map",
+    "787.b701888c.chunk.js.map": "/Protfolio/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbff68bc.css",
-    "static/js/main.58a39e74.js"
+    "static/css/main.a13b53e8.css",
+    "static/js/main.22a4552b.js"
   ]
 }
